@@ -19,7 +19,7 @@ class Landing extends Component {
                   borderRadius: "3px",
                   letterSpacing: "1.5px"
                 }}
-                className="btn mb-2 waves-effect waves-light hoverable blue accent-3"
+                className="btn mb-2 waves-effect waves-light hoverable purple accent-3"
               >
                 Log In
               </Link>
