@@ -1,4 +1,4 @@
-# mern-auth
+# SLEM
 This project uses the following technologies:
 
 - [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for frontend
